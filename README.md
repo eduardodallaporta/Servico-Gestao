@@ -1,4 +1,4 @@
-# ServicoGestao — Fase 1 (Clean Architecture)
+# Serviço Gestao - Fase 1
 
 > **Escopo da fase:** modelagem de todo o sistema e **implementação apenas do serviço principal** (ServicoGestao) para gestão de **Clientes, Planos e Assinaturas** de uma operadora de internet. Microsserviços auxiliares (Faturamento e PlanosAtivos) ficam **fora do escopo** de implementação nesta fase, mas já foram considerados no desenho da arquitetura.
 
